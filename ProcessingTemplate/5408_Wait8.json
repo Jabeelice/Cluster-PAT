@@ -1,0 +1,17 @@
+{
+  "highRiskStatisticMethod": "PERCENT",
+  "highRiskStatisticPeriod": "MONTH",
+  "owner": "jabee",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "INTERNAL",
+  "statisticMethod": "AVERAGE",
+  "statisticPeriod": "MONTH",
+  "taskType": "WAIT",
+  "customFieldValues": {
+  },
+  "processingCommand": {
+    "waitDuration": "PT20S",
+    "waitMode": "FOR"
+  }
+}
